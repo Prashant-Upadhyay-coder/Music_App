@@ -1,1 +1,24 @@
-/* You can add global styles to this file, and also import other style files */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Global styles */
+  html{
+   font-size: 14px;
+  }
+  
+  body {
+    background-color: #dbe6f4 !important;
+    font-family: Roboto, "Helvetica Neue", sans-serif; 
+    overflow: hidden;
+
+  }
+  .content-main{
+    max-width: 40rem;
+    width: 100%;
+    margin: auto;
+    padding:  1rem;
+}

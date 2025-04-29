@@ -1,0 +1,16 @@
+
+.footer{
+    position: fixed;
+    z-index: 200;
+    background: #343a4099;
+    width: 100%;
+    bottom: 0;
+
+}
+.footer p{
+   color: #FFF;
+    font-size: 0.9rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
